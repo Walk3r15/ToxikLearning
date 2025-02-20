@@ -6,6 +6,7 @@ public class MyClass {
   public static void main(String[] args) {
     double cislo1;
     double cislo2;
+    double cislo3;
     // String operace;
     // Scanner skener1 = new Scanner(System.in);
     // Scanner skener2 = new Scanner(System.in);
@@ -17,7 +18,7 @@ public class MyClass {
     // System.out.println("Číslo dvě je: " + cislo2);
     // System.out.println("Vyberte operaci");
     // operace = skener2.nextLine();
-
+    int cislo151551;
     // switch(operace.toLowerCase()){
     //   case "scitej":
     //     System.out.println("Výsledek sčítání je:" + (cislo1 + cislo2));
